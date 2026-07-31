@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a3ef6be1d54a644b896687146647c50, type: 3}
+  m_Name: Stage Keycard
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: Stage1_Keycard
+  icon: {fileID: 8381578919695713770, guid: 49b2db429fd93f8438d72aca74849c1d, type: 3}
+  isWeapon: 0
+  prefab: {fileID: 754292511785371418, guid: bc68ee16f5f4a164680ce5305fa0ca9f, type: 3}
+  currentAmmo: 0
+  maxAmmo: 6

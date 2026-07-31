@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: 3e916eb5857bea940a82c36971774eac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1035652548559509080
+    second: noisemaker_large_spritesheet_0
+  - first:
+      213: -4380918948928257408
+    second: noisemaker_large_spritesheet_1
+  - first:
+      213: -6543594284598346557
+    second: noisemaker_large_spritesheet_2
+  - first:
+      213: -3133250387977495749
+    second: noisemaker_large_spritesheet_3
+  - first:
+      213: 1174111173656878436
+    second: noisemaker_large_spritesheet_4
+  - first:
+      213: -3750017927204221273
+    second: noisemaker_large_spritesheet_5
+  - first:
+      213: -5357137516546784384
+    second: noisemaker_large_spritesheet_6
+  - first:
+      213: 7619477546880720830
+    second: noisemaker_large_spritesheet_7
+  - first:
+      213: 6277097595727952440
+    second: noisemaker_large_spritesheet_8
+  - first:
+      213: -5082336013324970210
+    second: noisemaker_large_spritesheet_9
+  - first:
+      213: -5623586373410169036
+    second: noisemaker_large_spritesheet_10
+  - first:
+      213: 8546015789003223558
+    second: noisemaker_large_spritesheet_11
+  - first:
+      213: -343919746595090451
+    second: noisemaker_large_spritesheet_12
+  - first:
+      213: 1645483571974178711
+    second: noisemaker_large_spritesheet_13
+  - first:
+      213: 7183290033772290385
+    second: noisemaker_large_spritesheet_14
+  - first:
+      213: 4463008560903805261
+    second: noisemaker_large_spritesheet_15
+  - first:
+      213: 2143391057412160256
+    second: noisemaker_large_spritesheet_16
+  - first:
+      213: 7101061627577865441
+    second: noisemaker_large_spritesheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8561e9b71806f5e00800000000000000
+      internalID: 1035652548559509080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0828a535d69d333c0800000000000000
+      internalID: -4380918948928257408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc3d38eaab7035a0800000000000000
+      internalID: -6543594284598346557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b1f307f557484d0800000000000000
+      internalID: -3133250387977495749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d92a844e74b4010800000000000000
+      internalID: 1174111173656878436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae45ab409245fbc0800000000000000
+      internalID: -3750017927204221273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0838f41efcf97a5b0800000000000000
+      internalID: -5357137516546784384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 2
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfd3eb8572ddb960800000000000000
+      internalID: 7619477546880720830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ab2dd710bbc1750800000000000000
+      internalID: 6277097595727952440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171790c25ae779b0800000000000000
+      internalID: -5082336013324970210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fd8290df105f1b0800000000000000
+      internalID: -5623586373410169036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602ba64d41c899670800000000000000
+      internalID: 8546015789003223558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def05f800d62a3bf0800000000000000
+      internalID: -343919746595090451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797034f279ee5d610800000000000000
+      internalID: 1645483571974178711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151e99d1a3c20b360800000000000000
+      internalID: 7183290033772290385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49d23ed3aacfed30800000000000000
+      internalID: 4463008560903805261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bfccf7fcadebd10800000000000000
+      internalID: 2143391057412160256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: noisemaker_large_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e49fef5de90c8260800000000000000
+      internalID: 7101061627577865441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      noisemaker_large_spritesheet_0: 1035652548559509080
+      noisemaker_large_spritesheet_1: -4380918948928257408
+      noisemaker_large_spritesheet_10: -5623586373410169036
+      noisemaker_large_spritesheet_11: 8546015789003223558
+      noisemaker_large_spritesheet_12: -343919746595090451
+      noisemaker_large_spritesheet_13: 1645483571974178711
+      noisemaker_large_spritesheet_14: 7183290033772290385
+      noisemaker_large_spritesheet_15: 4463008560903805261
+      noisemaker_large_spritesheet_16: 2143391057412160256
+      noisemaker_large_spritesheet_17: 7101061627577865441
+      noisemaker_large_spritesheet_2: -6543594284598346557
+      noisemaker_large_spritesheet_3: -3133250387977495749
+      noisemaker_large_spritesheet_4: 1174111173656878436
+      noisemaker_large_spritesheet_5: -3750017927204221273
+      noisemaker_large_spritesheet_6: -5357137516546784384
+      noisemaker_large_spritesheet_7: 7619477546880720830
+      noisemaker_large_spritesheet_8: 6277097595727952440
+      noisemaker_large_spritesheet_9: -5082336013324970210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
